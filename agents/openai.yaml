@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 211"
+  short_description: "Semantic-colour Geometric Vignette"
+  default_prompt: "Use $xxd-panel-211 to transform my photograph following the complete canonical source brief."
