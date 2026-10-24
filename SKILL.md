@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-211
-description: "Create Panel 211 raster artwork: Semantic-colour Geometric Vignette. Use when the user invokes xxd-panel-211 or requests this specific visual language."
+description: "XXD Panel 211｜Semantic-colour Geometric Vignette: keeps only two to five visual memories of a photo and rebuilds them as one small minimal geometric vignette — simple geometric shapes, solid colour blocks, symbolic outlines and a little layering — placed off-centre, against an edge or cropped in wide negative space. Colours are chosen for meaning rather than decoration: two to four core colours that stand for the subject's identity, setting, material, season or mood (leaf colour for plants, facade colour for buildings, clothing colour for people, water and light for the sea), brightened and cleaned into clear main, secondary and accent roles on a very light near-white ground, with a few small words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-211 or asks for minimal geometric spot graphics with meaning-driven colour from a photo."
 ---
 
 # XXD Panel 211

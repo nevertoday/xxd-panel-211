@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 211"
-  short_description: "Semantic-colour Geometric Vignette"
-  default_prompt: "Use $xxd-panel-211 to transform my photograph following the complete canonical source brief."
+  short_description: "语义配色几何小品：把照片压成一枚几何色块小图形，颜色按主体身份、材质或季节来选"
+  default_prompt: "Use $xxd-panel-211 to turn my photo into Semantic-colour Geometric Vignette artwork."

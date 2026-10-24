@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 211｜Semantic-colour Geometric Vignette: keeps only two to five visual memories of a photo and rebuilds them as one small minimal geometric vignette — simple geometric shapes, solid colour blocks, symbolic outlines and a little layering — placed off-centre, against an edge or cropped in wide negative space. Colours are chosen for meaning rather than decoration: two to four core colours that stand for the subject's identity, setting, material, season or mood (leaf colour for plants, facade colour for buildings, clothing colour for people, water and light for the sea), brightened and cleaned into clear main, secondary and accent roles on a very light near-white ground, with a few small words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-211 or asks for minimal geometric spot graphics with meaning-driven colour from a photo.",
+  "short_description": "语义配色几何小品：把照片压成一枚几何色块小图形，颜色按主体身份、材质或季节来选",
+  "zh-CN": {
+    "name": "语义配色几何小品",
+    "tagline": "把照片压成一枚几何色块小图形，颜色按主体的身份、材质或季节来选。",
+    "look": "照片只留下 2 到 5 个视觉记忆点，用简洁几何形、完整色块、符号化轮廓和少量层叠拼成一枚小小的图形，可以偏心、贴边或局部裁切。颜色按“意义”来选：从照片里找最能代表主体身份、环境、材质、季节或情绪的 2 到 4 种颜色，比如植物取叶色、建筑取立面色、人物取衣服色、海景取水和光的颜色，再提亮去灰，分出主色、辅助色和点睛色。背景是接近白色的极浅底色，四周大片留白，几个小字轻轻落在留白里。",
+    "traits": ["几何图形", "语义配色", "完整色块", "小尺度主体", "大片留白"],
+    "good": [
+      "有代表色的主体：一棵绿树、一栋红砖楼、一个穿黄衣服的人、一片海",
+      "形状简单、能几何化的物件：一个橙子、一辆自行车、一把伞",
+      "想做品牌图形、文创图案或系列海报的照片"
+    ],
+    "poor": [
+      "颜色灰暗、没有清楚代表色的照片，结果容易平淡",
+      "需要细节和质感的照片：人像特写、材质特写",
+      "想要写实插画、3D 或幼稚卡通图标感的需求"
+    ]
+  },
+  "en": {
+    "name": "Semantic-colour Geometric Vignette",
+    "tagline": "Compresses a photo into one small geometric colour-block graphic, with colours chosen for what the subject is.",
+    "look": "Only two to five visual memories of your photo are kept and assembled into one small graphic of simple geometric shapes, solid colour blocks, symbolic outlines and a little layering; it can sit off-centre, against an edge or be cropped. Colours are chosen for their meaning: the two to four colours in the photo that best stand for the subject's identity, setting, material, season or mood, such as leaf colour for a plant, facade colour for a building, clothing colour for a person, or the colours of water and light for the sea, then brightened and cleaned into a main colour, a secondary colour and an accent. The background is a very light, near-white tone with wide whitespace all around and a few small words placed lightly in it.",
+    "traits": ["Geometric shapes", "Meaning-led colour", "Solid colour blocks", "Small subject", "Wide whitespace"],
+    "good": [
+      "Subjects with a signature colour: a green tree, a red-brick building, a person in yellow, the sea",
+      "Simple objects that turn easily into geometry: an orange, a bicycle, an umbrella",
+      "Photos you want as brand graphics, gift-shop patterns or a poster series"
+    ],
+    "poor": [
+      "Dull photos without a clear signature colour, which tend to come out flat",
+      "Photos that need detail and texture: close-up portraits, material close-ups",
+      "Requests for realistic illustration, 3D or a childish cartoon-icon look"
+    ]
+  },
+  "ja": {
+    "name": "意味に基づく配色の幾何学小品",
+    "tagline": "写真を幾何学的な色面の小さな図形にまとめ、色は主役の正体、素材、季節に合わせて選びます。",
+    "look": "写真から視覚的な記憶を二から五つだけ残し、シンプルな幾何学形、塗りつぶしの色面、記号的な輪郭、わずかな重なりで小さな図形を組み立てます。中心を外したり、端に寄せたり、一部を切り取ったりしてもかまいません。色は意味で選びます。主役の正体、環境、素材、季節、気分をいちばんよく表す二から四色を写真から探し、植物なら葉の色、建物なら外壁の色、人物なら服の色、海なら水と光の色というように選んだうえで、明るく澄ませて主色、副色、差し色に分けます。背景は白に近いごく淡い色で、周りに大きな余白をとり、小さな言葉を数語そっと置きます。",
+    "traits": ["幾何学の形", "意味で選ぶ色", "塗りつぶしの色面", "小さな主役", "広い余白"],
+    "good": [
+      "象徴的な色を持つ主役：緑の木、赤レンガの建物、黄色い服の人、海",
+      "形がシンプルで幾何学化しやすい物：オレンジ、自転車、傘",
+      "ブランドのグラフィック、雑貨の柄、シリーズポスターにしたい写真"
+    ],
+    "poor": [
+      "色がくすんでいて象徴的な色がはっきりしない写真は、平板な仕上がりになりがちです",
+      "細部や質感が必要な写真：人物のアップ、素材のクローズアップ",
+      "写実的なイラスト、3D、幼い漫画のアイコンのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "의미 기반 배색 기하학 소품",
+    "tagline": "사진을 기하 색면의 작은 그래픽으로 줄이고, 색은 주인공의 정체, 재질, 계절에 맞춰 고릅니다.",
+    "look": "사진에서 시각적 기억 두 개에서 다섯 개만 남겨 단순한 기하 도형, 꽉 찬 색면, 상징적인 윤곽, 약간의 겹침으로 작은 그래픽 하나를 만듭니다. 중심에서 비켜나거나 가장자리에 붙거나 일부가 잘려도 됩니다. 색은 의미로 고릅니다. 주인공의 정체, 환경, 재질, 계절, 기분을 가장 잘 나타내는 두 가지에서 네 가지 색을 사진에서 찾는데, 식물이면 잎 색, 건물이면 외벽 색, 사람이면 옷 색, 바다면 물과 빛의 색을 고른 뒤 밝고 맑게 다듬어 주색, 보조색, 포인트 색으로 나눕니다. 배경은 흰색에 가까운 아주 옅은 색이고 둘레에 넓은 여백을 두며 작은 글자 몇 개를 가볍게 놓습니다.",
+    "traits": ["기하 도형", "의미 기반 색", "꽉 찬 색면", "작은 주인공", "넓은 여백"],
+    "good": [
+      "대표 색이 있는 주인공: 초록 나무, 붉은 벽돌 건물, 노란 옷을 입은 사람, 바다",
+      "형태가 단순해 기하 도형으로 바꾸기 쉬운 물건: 오렌지, 자전거, 우산",
+      "브랜드 그래픽, 굿즈 패턴, 시리즈 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 칙칙하고 대표 색이 분명하지 않은 사진은 밋밋하게 나오기 쉽습니다",
+      "디테일과 질감이 필요한 사진: 인물 클로즈업, 재질 클로즈업",
+      "사실적인 일러스트, 3D, 유치한 만화 아이콘 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد هندسي بألوان مستمدة من المعنى",
+    "tagline": "يختزل الصورة في رسم صغير من كتل لونية هندسية، تُختار ألوانه بحسب ماهية العنصر وخامته وموسمه.",
+    "look": "لا يبقى من صورتك إلا ذكريتان إلى خمس ذكريات بصرية، تُجمع في رسم صغير واحد من أشكال هندسية بسيطة وكتل لونية مصمتة وحدود رمزية وقليل من التراكب؛ وقد يبتعد عن المركز أو يلامس حافة أو يُقتطع جزء منه. تُختار الألوان بحسب معناها: الألوان الاثنان إلى الأربعة في الصورة التي تمثل هوية العنصر أو محيطه أو خامته أو موسمه أو مزاجه أفضل تمثيل، كلون الأوراق للنبات، ولون الواجهة للمبنى، ولون الثياب للشخص، وألوان الماء والضوء للبحر، ثم تُفتَّح وتُنقّى لتتوزع بين لون رئيسي ولون ثانوي ولون إبراز. الخلفية درجة فاتحة جداً قريبة من البياض، مع فراغ واسع من كل جانب وكلمات صغيرة قليلة موضوعة فيه بخفة.",
+    "traits": ["أشكال هندسية", "ألوان يقودها المعنى", "كتل لونية مصمتة", "عنصر صغير", "فراغ واسع"],
+    "good": [
+      "عناصر لها لون مميز: شجرة خضراء، مبنى من الطوب الأحمر، شخص بثياب صفراء، البحر",
+      "أشياء بسيطة يسهل تحويلها إلى هندسة: برتقالة، دراجة، مظلة",
+      "صور تريدها رسوماً لعلامة تجارية أو نقوشاً لمنتجات تذكارية أو سلسلة ملصقات"
+    ],
+    "poor": [
+      "الصور الباهتة التي لا لون مميزاً واضحاً فيها، فتخرج النتيجة مسطحة",
+      "صور تحتاج إلى تفاصيل وملمس: الصور الشخصية القريبة، لقطات الخامات القريبة",
+      "طلب رسم توضيحي واقعي أو مظهر ثلاثي الأبعاد أو أيقونات كرتونية طفولية"
+    ]
+  }
+}
